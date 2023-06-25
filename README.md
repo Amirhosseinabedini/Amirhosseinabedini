@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **open to work**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **symfony**
 
 - 👯 I’m looking to collaborate **In a company in Germany**
 
