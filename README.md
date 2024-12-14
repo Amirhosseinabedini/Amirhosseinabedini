@@ -5,9 +5,9 @@
 
 - 🔭 Ich bin aktuell bei Firstmedical GmbH angestellt, aber **offen für neue Arbeitsmöglichkeiten**
 
-- 🌱 Ich lerne gerade **Laravel**
+- 🌱 Ich lerne gerade **alles neues**
 
-- 👯 Ich suche nach einer Zusammenarbeit **in einem Unternehmen in Deutschland**
+<!-- - 👯 Ich suche nach einer Zusammenarbeit **in einem Unternehmen in Deutschland** -->
 
 - 👨‍💻 Alle meine Projekte sind verfügbar auf [https://amirabedini.net/](https://amirabedini.net/)
 
